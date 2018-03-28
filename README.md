@@ -2,7 +2,7 @@
 
 Who wants socks at TrailheaDX 2018
 
-
+stephanie 
 <h1>Steps to submit a pull request</h1>
 
 1) Open [Readme.md](https://github.com/salesforce/sock-it-to-me/blob/master/README.md)
